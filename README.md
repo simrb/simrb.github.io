@@ -1,2 +1,1 @@
-# simrb.github.io
-Simrb Blog
+# Simrb Blog
